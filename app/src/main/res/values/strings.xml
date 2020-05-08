@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Movie App MVVM Kotlin</string>
+    <string name="movie_name">Movie Name</string>
+    <string name="sub_title">Sub Title</string>
+    <string name="movie_info">Movie Info</string>
+    <string name="release_date">Release Date : </string>
+    <string name="release_date_value">2020-05-11</string>
+    <string name="rating">Rating : </string>
+    <string name="rating_value">8</string>
+    <string name="runtime">Runtime : </string>
+    <string name="runtime_value">1.5 hr</string>
+    <string name="budget">Budget : </string>
+    <string name="budget_value">2.00.000</string>
+    <string name="revenue">Revenue : </string>
+    <string name="revenue_value">2.00.000</string>
+    <string name="overview">Overview : </string>
+    <string name="overview_value">Overview.... </string>
+    <string name="error_message">Error Message</string>
+</resources>
